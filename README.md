@@ -1,7 +1,6 @@
 # Module Menu for Arduino Project's
 
 [![Arduino](https://img.shields.io/badge/Arduino-1.8.11-green)][Arduino]
-[Arduino]: https://www.arduino.cc/
 
 ## About
 
@@ -20,3 +19,5 @@ This Project **necessery** these _modules_ for this correct functioning.
 - [ ] Choose all modules to implement
 - [ ] Implement the code
 - [ ] Make the datasheet for all modules
+
+[Arduino]: https://www.arduino.cc/
