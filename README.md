@@ -1,7 +1,7 @@
 # Module Menu for Arduino Project's
 
 [![Arduino](https://img.shields.io/badge/Arduino-1.8.11-green)][Arduino]
-[Arduino](https://www.arduino.cc/)
+[Arduino]: https://www.arduino.cc/
 
 ## About
 
