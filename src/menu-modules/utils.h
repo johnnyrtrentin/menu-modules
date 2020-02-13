@@ -2,6 +2,8 @@
  * 
  */
 
+#include <Arduino.h>
+
 class Utils {
     public:
         void print(char* content);

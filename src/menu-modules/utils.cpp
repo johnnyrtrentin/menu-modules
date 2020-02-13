@@ -1,6 +1,4 @@
 #include "utils.h"
-#include <HardwareSerial.h>
-
 
 // 
 void Utils::print(char* content) {
