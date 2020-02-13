@@ -1,17 +1,10 @@
 #include "menu.h"
-#include "utils.cpp"
+#include "utils.h"
 
 Utils utils;
 
 // Display modules
 void Menu::displayMenuOptions() {
-    utils.display("TESTE");
+    utils.display((char*)"TESTE");
     
-}
-
-bool Menu::startModule() {
-	bool keyActivity = false;
-
-	
-	return keyActivity;
-}
+};

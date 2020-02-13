@@ -4,8 +4,8 @@
 
 class Utils {
     public:
-        print(char* content);
-        println(char* content);
-        display(char* content);
+        void print(char* content);
+        void println(char* content);
+        void display(char* content);
     private:
-}
+};
