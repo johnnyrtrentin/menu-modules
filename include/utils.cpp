@@ -1,0 +1,19 @@
+#include "utils.h"
+
+// 
+void Utils::print(char* content) {
+
+    Serial.print(content);
+}
+
+// 
+void Utils::println(char* content) {
+
+    Serial.println(content);
+}
+
+// Display no lcd
+void Utils::display(char* content) {
+    Utils.print(content);
+
+}
