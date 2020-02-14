@@ -7,7 +7,7 @@
 class Menu {
 public:
 
-    bool displayMenuOptions();
+    void displayMenuOptions();
 
 private:
 

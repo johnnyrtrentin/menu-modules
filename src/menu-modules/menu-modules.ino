@@ -1,12 +1,14 @@
-#include "../../include/menu.h"
+#include "menu.h";
+
+Menu menu;
 
 void setup() {
   Serial.begin(9600);
   Serial.println("Press any key...");
   Serial.println();
-  Menu menu;
+  
 }
 
 void loop() {
-  Menu.displayMenuOption();
+  menu.displayMenuOptions();
 }
